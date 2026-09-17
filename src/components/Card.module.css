@@ -1,0 +1,5 @@
+.card { overflow: hidden; border-radius: 12px; background: white; box-shadow: 0 3px 12px #1f23501a; }
+.image { height: 150px; background-position: center; background-size: cover; }
+.content { padding: 18px; }
+.content h2 { font-size: 20px; margin-bottom: 6px; }
+.content p { color: #6c7180; margin-bottom: 14px; }

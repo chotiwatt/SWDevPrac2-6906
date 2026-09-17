@@ -1,0 +1,4 @@
+.banner { background: linear-gradient(120deg, #5b3cc4, #8368df); color: white; padding: 54px 24px; text-align: center; }
+.smallTitle { font-size: 12px; font-weight: bold; letter-spacing: 2px; margin-bottom: 10px; }
+.banner h1 { font-size: 34px; margin-bottom: 10px; }
+.description { color: #eee9ff; }
